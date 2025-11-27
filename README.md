@@ -5,6 +5,9 @@ Welcome to **Temperature Conversion** — a simple utility to convert between Ce
 ## 🚀 Project Overview
 This small demo lets users convert temperatures between Celsius and Fahrenheit using straightforward formulas and a simple interface.
 
+## 🌐 Live Demo
+[View Demo](https://issamsensi.github.io/temperature-conversion/)
+
 ## 🌟 Features
 - Convert Celsius to Fahrenheit and vice versa
 - Clear error messages and UI feedback
